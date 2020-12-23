@@ -1,3 +1,5 @@
+![4e722b5ac77d456ca11effa84afa606b](https://gitee.com/ikira/ImageRepo/raw/master/images/4e722b5ac77d456ca11effa84afa606b.jpeg)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Beijing
