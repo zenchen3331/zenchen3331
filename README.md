@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Beijing
+- 🌱 I’m currently learning ...
+
+
 <!--
 **zenchen3331/zenchen3331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
